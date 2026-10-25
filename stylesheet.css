@@ -211,7 +211,7 @@ h2 { margin: 0; font-family: var(--serif); font-size: clamp(30px, 3.6vw, 45px); 
   .photo-panel { height: auto; }
   .photo-label { top: 12px; left: 12px; font-size: 10px; }
   .photo-label span { display: block; margin: 0; }
-  .photo-panel > p { width: 30%; padding: 0 8px; font-size: 15px; }
+  .photo-panel > p { width: 30%; padding: 0 8px; font-size: 14px; }
   .cleaning-copy { margin-top: 35px; text-align: left; }
   .cleaning-copy .cleaning-lead { font-size: 19px; }
   .mobile-break { display: initial; }
@@ -221,7 +221,7 @@ h2 { margin: 0; font-family: var(--serif); font-size: clamp(30px, 3.6vw, 45px); 
   .menu-procedure h4 { margin-left: 0; }
   .menu-meta { flex-wrap: wrap; gap: 5px 18px; }
   .compare-section { padding: 68px 0; }
-  .compare-section h2 { font-size: 28px; }
+  .compare-section h2 { font-size: 25px; }
   .compare-table { min-width: 760px; }
   .price-layout { grid-template-columns: 1fr; gap: 38px; }
   .price-row { gap: 8px; }
